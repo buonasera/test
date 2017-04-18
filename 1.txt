@@ -1,2 +1,2 @@
-sei	sesto
-six	sixieme
+sette	settimo
+sept	septieme
