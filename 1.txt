@@ -1,2 +1,1 @@
-sette	settimo
-sept	septieme
+huit	huitieme
