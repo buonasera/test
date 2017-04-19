@@ -1,1 +1,2 @@
+Nombre	Ordinal
 neuf	neuvieme
