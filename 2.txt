@@ -1,0 +1,2 @@
+Person	Possessive
+I	mon/ma
