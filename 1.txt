@@ -1,2 +1,3 @@
 Number	Ordinal
 neuf	neuvieme
+dix	dixieme
